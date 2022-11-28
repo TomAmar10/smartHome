@@ -1,0 +1,8 @@
+error	 2022-11-00 07:51:04 	 route not found!
+error	 2022-11-00 07:58:24 	 route not found!
+error	 2022-11-00 08:08:08 	 route not found!
+error	 2022-11-00 08:08:10 	 route not found!
+error	 2022-11-01 01:09:30 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com, adam123, Mon Nov 28 2022 13:09:30 GMT+0200 (שעון ישראל (ח�' at line 2
+error	 2022-11-01 01:09:55 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com, adam123, Mon Nov 28 2022 13:09:55 GMT+0200 (שעון ישראל (ח�' at line 2
+error	 2022-11-01 06:45:32 	 ER_BAD_FIELD_ERROR: Unknown column 'lights' in 'field list'
+error	 2022-11-01 06:51:04 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[object Object], 79, 28, 'Mon Nov 28 2022 18:51:04 GMT+0200 (שעון ישראל' at line 2

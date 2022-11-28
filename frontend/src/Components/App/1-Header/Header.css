@@ -1,0 +1,35 @@
+.Header {
+  font-size: 2rem;
+  font-weight: bold;
+  display: grid;
+  grid-template-columns: 33% 34% 33%;
+  justify-content: space-around;
+}
+.Header h2 {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.top-links {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 3rem;
+}
+
+.top-buttons-right .navLink {
+  font-size: 1.2rem;
+  color: rgb(41, 51, 136);
+  margin: 0 0 0 1rem;
+  text-decoration: none;
+}
+
+.top-buttons-right > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Header img {
+  width: 2rem;
+  margin-right: 0.5rem;
+  cursor: pointer;
+}

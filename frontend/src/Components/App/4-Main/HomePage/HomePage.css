@@ -1,0 +1,12 @@
+.HomePage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.HomePage .boxes-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+  min-height: 28rem;
+}

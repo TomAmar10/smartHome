@@ -1,0 +1,16 @@
+.ButtonSecond {
+  border-radius: 20px;
+  border: 1px rgb(41, 51, 136) solid;
+  color: rgb(41, 51, 136);
+  background: none;
+  height: 2rem;
+  width: 7rem;
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin: 1rem;
+  cursor: pointer;
+  max-width: content;
+}
+.ButtonSecond:hover {
+  background-color: rgb(249, 225, 195);
+}

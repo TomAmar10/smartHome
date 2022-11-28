@@ -1,0 +1,30 @@
+.Login {
+  display: flex;
+  justify-content: center;
+}
+
+.login-form {
+  padding: 2rem 1rem;
+  box-shadow: 1px 1px 1px 1px;
+  border-radius: 10px;
+  font-size: 1.1rem;
+}
+
+.login-form h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.login-form input {
+  margin-left: 1rem;
+  width: 15rem;
+  border-radius: 5px;
+  padding: 0.3rem;
+}
+.second-header {
+  font-size: 0.8rem;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 1rem;
+}

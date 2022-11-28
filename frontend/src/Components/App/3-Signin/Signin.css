@@ -1,0 +1,37 @@
+.Signin {
+  display: flex;
+  justify-content: center;
+}
+
+.signin-form {
+  padding: 2rem 1rem;
+  box-shadow: 1px 1px 1px 1px;
+  border-radius: 10px;
+  font-size: 1.1rem;
+}
+
+.signin-form h3 {
+  margin-top: 0;
+}
+
+.signin-form input {
+  margin-left: 1rem;
+  width: 15rem;
+  border-radius: 5px;
+  padding: 0.1rem 0.2rem 0.3rem 0.2rem;
+  font-size: 1rem;
+  color: rgb(44, 44, 44);
+  border: 1px black solid;
+}
+
+.signin-form button {
+  border-radius: 20px;
+  border: 1px rgb(41, 51, 136) solid;
+  color: rgb(41, 51, 136);
+  background: none;
+  height: 2rem;
+  width: 7rem;
+}
+.signin-form button:hover {
+  background-color: rgb(249, 225, 195);
+}

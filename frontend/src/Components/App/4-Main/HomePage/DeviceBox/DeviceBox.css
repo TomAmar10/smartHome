@@ -1,0 +1,51 @@
+.DeviceBox {
+  border-radius: 20px;
+  border: 1px black solid;
+  width: 12rem;
+  padding: 1rem 1rem;
+  box-shadow: 1px 2px 1px 2px;
+  margin: 1rem 2rem;
+  height: fit-content;
+}
+
+.top-device-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.DeviceBox h3 {
+  margin-top: 0;
+}
+
+.edit-img {
+  width: 1.5rem;
+  height: 1.5rem;
+  cursor: pointer;
+  margin-top: -1rem;
+}
+
+.DeviceBox select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  overflow: hidden;
+  border: none;
+  background: none;
+  z-index: 1;
+  position: absolute;
+  margin-left: 9.6rem;
+  margin-top: 3rem;
+}
+.DeviceBox option {
+  padding: 0.2rem 0.4rem;
+  border: 1px #ccc solid;
+  border-radius: 5px;
+  font-size: 0.8rem;
+  text-align: center;
+  font-weight: bold;
+  background-color: rgb(246, 224, 196);
+}
+.DeviceBox option:hover {
+  background-color: aliceblue;
+  cursor: pointer;
+}
